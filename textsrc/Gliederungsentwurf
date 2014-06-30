@@ -1,1 +1,19 @@
 Gliederungsentwurf
+
+1. Stereoskopie
+	1.1 Geschichte
+	1.2 Anwendungen
+	1.3 Informationen //Tiefe, Entfernungen, Raum
+2. Korrelation
+	2.2 Korrelation über Zeit
+	2.3 Korrelation über zwei Dimension
+	2.4 Bildkorrelation
+3. Verarbeitung von Stereoinformationen
+	3.1 3D-Scan
+	3.2 Fokus nachberechnung
+	3.3 Blickwinkel Nachberechnung
+4. Softwareexperiment
+	4.1 Triangulation der Bildpunkte
+	4.2 Finden ähnlicher Bildpunkte (Korrelation)
+	4.3 Ergebnisqualitätsbewertung
+	

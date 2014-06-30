@@ -1,0 +1,21 @@
+Expose
+Der Sichtkontakt zwischen zwei Personen bei der Videotelefonie ist nicht gegeben,
+da die Punkte der Kameralinse und Blickpunkt der jeweiligen Person naturgegeben von einander entfernt sind,
+wenn der Blick der Person auf den Bildschirm gerichtet ist.
+Ziel meiner Seminararbeit ist es Verfahren zu entwickeln und zu Bewerten die dieses Problem lösen.
+Dazu gibt es bereits einige Ansätze mit dessen Ergebnis ich den Vergleich suchen werde.
+
+
+Im Rahmen meiner Seminararbeit werde ich eine Software entwickeln die,
+an Hand der nach dem Stereoskopieverfahren aus zwei Kamerabildern gewonnenen Tiefeninformationen und
+Bildinformationen, ein Bild berechnet, welches das gleiche Objekt zeigt wie die beiden Quellenbilder,
+dessen Blickwinkel sich jedoch von denen der beiden Quellenbilder unterscheidet.
+Die Arbeit enthält Erklärungen der verwendeten Algorithmen und mathematischen Prinzipien. 
+Hauptsächlich wird das Prinzip der Korrelation von Bedeutung sein.
+Die Korrelation ist der Zusammenhang zwischen zwei Zufallsgrößen, in dieser Anwendung
+ein Mittel zur Bestimmung der Ähnlichkeit von zwei Bildpunkten.
+Es wird untersucht wie gut sich welche Algorithmen sich für das Verfahren eignen. 
+Zu diesem Zweck wird ein Verfahren zur Bewertung der der Qualität des Ergebnisses entwickelt werden.
+
+
+
