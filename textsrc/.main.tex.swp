@@ -2,7 +2,7 @@
 
 	\title{\textbf{Augenkontakt beim Videochat}}
 	\author{Peter Hilgenfeld}
-	\date{}
+	\date{} %remove
 	\usepackage{subfiles}
 	\usepackage{german}
 	
