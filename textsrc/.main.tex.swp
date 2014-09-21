@@ -1,0 +1,17 @@
+\documentclass[11pt]{article}
+
+	\title{\textbf{Augenkontakt beim Videochat}}
+	\author{Peter Hilgenfeld}
+	\date{}
+	\usepackage{subfiles}
+	\usepackage{german}
+	
+\begin{document}
+
+	\maketitle
+	\tableofcontents
+	\subfile{expose}
+	\subfile{3dscan}
+	\subfile{quellen}
+\end{document}
+
